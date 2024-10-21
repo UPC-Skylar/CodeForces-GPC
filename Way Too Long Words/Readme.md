@@ -1,3 +1,4 @@
+**A. Way Too Long Words**
 
 Sometimes some words like "localization" or "internationalization" are so long that writing them many times in one text is quite tiresome.
 
@@ -15,4 +16,4 @@ The first line contains an integer n (1 ≤ n ≤ 100). Each of the foll
 Output
 Print n lines. The i-th line should contain the result of replacing of the i-th word from the input data.
 
-![image](https://hackmd.io/_uploads/HkTgNMNlyl.png)
+![image]([https://hackmd.io/_uploads/HkTgNMNlyl.png](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_c288b88f4d2fcd24449b472a1ef8ffc7.png?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1729533459&Signature=2ais08ihEY7y46wPdZFEfHCDwWo%3D))
